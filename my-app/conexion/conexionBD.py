@@ -8,9 +8,9 @@ def connectionBD():
     try:
         # connection = mysql.connector.connect(
         connection = mysql.connector.connect(
-            host="10.6.21.27",
-            user="usuario",
-            passwd="hospital",
+            host="localhost",
+            user="root",
+            passwd="",
             database="crud_python",
             charset='utf8',
             collation='utf8_spanish_ci',
