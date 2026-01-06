@@ -73,7 +73,7 @@ Para ejecutar este proyecto, necesitas:
 
 7. **Accede desde el navegador:**
 
-   - Ingresa a: [http://127.0.0.1:5600/](http://127.0.0.1:5600/)
+   - Ingresa a: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ---
 
